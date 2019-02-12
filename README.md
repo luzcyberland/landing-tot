@@ -1,2 +1,3 @@
 # landing-tot
-total web xd
+git repo
+edit
